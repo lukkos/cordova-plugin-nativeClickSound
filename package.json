@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-nativeClickSound",
+  "version": "1.0",
+  "description": "Get native click sounds on android and ios",
+  "cordova": {
+    "id": "cordova-plugin-nativeClickSound",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukkos/cordova-plugin-nativeClickSound.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "ios",
+    "click",
+    "sound"
+  ],
+  "author": "Matías Menich",
+  "license": "MIT",
+  "homepage": "https://github.com/MatiMenich/cordova-plugin-nativeClickSound"
+}
